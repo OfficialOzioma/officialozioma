@@ -4,12 +4,18 @@ Hi 👋 My name is Ozioma Dike
 Software Engineer
 -----------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialozioma&label=Profile%20views&color=0e75b6&style=flat" alt="officialozioma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialozioma" alt="officialozioma" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/officialozioma" target="blank"><img src="https://img.shields.io/twitter/follow/officialozioma?logo=twitter&style=for-the-badge" alt="officialozioma" /></a> </p>
+
 I am an experience software engineer with experience in solving user and business problems and leveraging technology tools.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [ozioma.dev](http://oziomadike.vercel.app/)
 * ✉️  You can contact me at [ozioma.pascal.dike@gmail.com](mailto:ozioma.pascal.dike@gmail.com)
-* 🧠  I'm learning Python
+* 🧠 I’m currently learning **Golang, python**
 * 🤝  I'm open to collaborating on Open source projects
 
 <a href="https://www.github.com/OfficialOzioma" target="_blank" rel="noreferrer"><img
@@ -26,15 +32,11 @@ src="https://img.shields.io/twitter/follow/OfficialOzioma ?logo=twitter&style=fo
 
 <p align="left"> <a href="https://www.dev.to/officialozioma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/OfficialOzioma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://oziomadike.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/officialozioma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/oziomaofficial" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/officialozioma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/OfficialOzioma " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@OfficialOzioma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialozioma&label=Profile%20views&color=0e75b6&style=flat" alt="officialozioma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialozioma" alt="officialozioma" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/officialozioma" target="blank"><img src="https://img.shields.io/twitter/follow/officialozioma?logo=twitter&style=for-the-badge" alt="officialozioma" /></a> </p>
 
 - 🔭 I’m currently working on [Article Space](https://github.com/OfficialOzioma/article-space)
 
-- 🌱 I’m currently learning **Golang, Nodejs, adonisjs**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/OfficialOzioma](https://github.com/OfficialOzioma)
 
